@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         防止访问迷你世界官网
-// @namespace    software.wangyuxiang.icu
+// @namespace    yuxiangwang0525.com
 // @version      1.1.3
 // @description  垃圾迷你
-// @author       翔哥0525
+// @author       YuxiangWang_0525
 // @match        https://www.mini1.cn/
 // @match        https://www.mini1.cn/*
 // @match        https://activities.mini1.cn/*
